@@ -1,20 +1,24 @@
 # SQL Sales Analysis
 
 ## Project Overview
-This project analyzes sales data using SQL and the Chinook database.
+This project analyzes sales data from the Chinook database using SQL and Power BI.
 
 ## Tools Used
-- SQLite
-- SQL
+- SQL (SQLite)
+- Power BI
+- DB Browser for SQLite
 
-## Analysis Performed
-- Top 10 Countries by Sales
-- Top 10 Customers by Total Spending
-- Top 10 Best-Selling Tracks
+## Key Analysis
+- Total Sales
+- Sales by Country
+- Top 10 Customers
 
 ## Files
+- SQL_sales_Dashboard.pbix
 - sales_analysis.sql
-- Chinook_Sqlite.sqlite
 
-## Author
-Shaikah
+## Dashboard
+Power BI dashboard includes:
+- Sales by Country
+- Top 10 Customers
+- Total Sales KPI
