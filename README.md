@@ -8,7 +8,7 @@ This project analyzes sales data from the Chinook database using SQL and Power B
 - Power BI
 - DB Browser for SQLite
 
-## Key Analysis
+## Analysis Performed
 - Total Sales
 - Sales by Country
 - Top 10 Customers
@@ -18,7 +18,10 @@ This project analyzes sales data from the Chinook database using SQL and Power B
 - sales_analysis.sql
 
 ## Dashboard
-Power BI dashboard includes:
+The dashboard includes:
 - Sales by Country
 - Top 10 Customers
 - Total Sales KPI
+
+## Author
+Shaikah
